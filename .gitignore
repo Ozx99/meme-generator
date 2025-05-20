@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# SQLite database
+server/memes.db
+
+# Build output
+client/build/
+
+# Environment files
+.env
+
+# macOS system files
+.DS_Store
