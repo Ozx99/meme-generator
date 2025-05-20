@@ -1,7 +1,5 @@
 # dependencies
-node_modules/
-server/uploads/
-server/memes.db
+/node_modules
 /.pnp
 .pnp.js
 
